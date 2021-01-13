@@ -1,6 +1,6 @@
-package com.xiaokai.test;
+package x;
 
-public class test {
+public class x {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
